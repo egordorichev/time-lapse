@@ -1,6 +1,5 @@
 #!/bin/bash
 
-rm img
 mkdir img
 clear
 echo "Making a screenshoot every 10 seconds..."
